@@ -1,0 +1,11 @@
+---
+  name: "shutdown"
+  type: "neuron"
+  author: "Kalliope project team"
+
+  kalliope_supported_version:
+    - 0.6
+
+  tags:
+    - "shutdown rpi"
+
